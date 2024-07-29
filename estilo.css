@@ -1,9 +1,12 @@
 :root {
 --cor-de-fundo: #fff;
-
+--cor-da-fonte
+--cor-fonte-titulos
+--cor-de-fundo-cabecalho
 }
   body {
     background-color: var (--cor-de-fundo);
+    height: 100vh;
 
   }
   
